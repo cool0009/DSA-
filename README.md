@@ -25,8 +25,13 @@
 9---nim-game.cpp
 
 10---Calculate bit-mask
+
       case(i).   Find i-th Bit
+      
       case(ii).  Set i-th Bit
+      
       case(iii). Clear i-th Bit
+      
       case(iv).  Clear Right-Most Set Bit
+      
       case(v).   Right-Most Bit active remaining other bit are cleared
