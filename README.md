@@ -1,6 +1,11 @@
 # DSA---DATA STRUCTURES AND ALGORITHM
+#DSA----SHORT QUESTION
 # SEARCHING TECHNIQUES
-# DSA----SHORT QUESTION
+
+
+#DSA----SHORT QUESTION. 
+
+
 1---Bit-wise Operator.cpp
 2---Bit-wise manipulation.cpp
 3---Cyclically Rotation.cpp
